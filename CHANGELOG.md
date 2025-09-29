@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-11)
+## Unreleased (2025-09-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d94514b`](https://github.com/stdlib-js/stdlib/commit/d94514bc9418f5b42df6233204d5005d53af00ca) - **docs:** clean-up TSDoc declaration comments _(by Philipp Burckhardt)_
 -   [`cbd656d`](https://github.com/stdlib-js/stdlib/commit/cbd656db90d14e150baa2a23deb44cb645ef2298) - **feat:** add `blas/ext/base/gnannsumpw` _(by Athan Reines)_
 
 </details>
@@ -34,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
